@@ -10,7 +10,7 @@ Feel free to contribute, improve or use it for your projects.
 - Bootstrap with Popper.js
 - FontAwesome
 
-### Commands?
+### Command
 
 It's pretty easy... You do not have a bunch of commands, just two of them:
 
